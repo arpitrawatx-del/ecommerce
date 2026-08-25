@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 300" width="200" height="300">
+  <rect x="40" y="20" width="120" height="240" rx="16" fill="#1a1a2e" stroke="#333" stroke-width="2"/>
+  <rect x="50" y="40" width="100" height="180" rx="4" fill="#16213e"/>
+  <text x="100" y="135" text-anchor="middle" font-family="Arial" font-size="14" fill="#e94560">Samsung</text>
+  <text x="100" y="155" text-anchor="middle" font-family="Arial" font-size="12" fill="#fff">S24</text>
+  <circle cx="100" cy="270" r="8" fill="none" stroke="#555" stroke-width="1.5"/>
+</svg>
